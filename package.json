@@ -1,6 +1,7 @@
 {
   "name": "experiment-react",
   "version": "0.1.0",
+  "main": "index.js",
   "private": true,
   "devDependencies": {
     "react": "^16.4.1",
