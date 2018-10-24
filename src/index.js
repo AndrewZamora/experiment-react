@@ -1,2 +1,5 @@
-import  Hello  from './Hello';
-export {Hello};
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./examples/App";
+
+ReactDOM.render(<App />, document.getElementById("root"));
