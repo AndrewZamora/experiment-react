@@ -2,7 +2,10 @@
   "name": "experiment-react",
   "version": "0.1.0",
   "main": "dist/index.js",
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/AndrewZamora/experiment-react"
