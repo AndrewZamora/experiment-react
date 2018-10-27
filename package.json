@@ -11,6 +11,7 @@
     "url": "https://github.com/AndrewZamora/experiment-react"
   },
   "devDependencies": {
+    "@babel/cli": "^7.1.2",
     "babel-cli": "^6.26.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
