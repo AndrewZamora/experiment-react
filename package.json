@@ -1,7 +1,12 @@
 {
   "name": "experiment-react",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrewZamora/experiment-react"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "react": "^16.4.1",
